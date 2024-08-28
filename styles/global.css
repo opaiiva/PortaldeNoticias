@@ -50,6 +50,7 @@ img {
     max-width: 1280px;
     padding-inline: 32px;
     margin-inline: auto;
+    object-fit: cover;
 }
 
 main {

@@ -33,3 +33,7 @@
 .text-sm {
     font: var(--sm);
 }
+
+.gap-32{
+    gap: 32px;
+}

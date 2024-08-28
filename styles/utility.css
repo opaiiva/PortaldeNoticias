@@ -13,3 +13,23 @@
 .gap-16 {
     gap:16px;
 }
+
+.text-2xl{
+    font: var(--h1);
+}
+
+.text-xl {
+    font: var(--xl);
+}
+
+.text-lg {
+    font: var(--lg);
+}
+
+.text-md {
+    font:var(--md);
+}
+
+.text-sm {
+    font: var(--sm);
+}
